@@ -8,7 +8,7 @@ As a local solar company, they are committed to providing the best solar service
 
 ## Packages Used: 
 
-Matplotlib — Visualization with Python
+Matplotlib - Visualization with Python
 
 pandas - Python Data Analysis Library
 
