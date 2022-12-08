@@ -17,3 +17,5 @@ NumPy -  Python library used for working with arrays
 ## Dataset:
 
 Customer Data from Energy Select 
+
+Note: the client will provide the customer data. 
