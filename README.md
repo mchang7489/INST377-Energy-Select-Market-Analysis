@@ -32,4 +32,4 @@ Project Plan | Approved | Completed
 
 Requirement Document | Completed
 
-Final Report | In-progress
+Final Report | Completed
