@@ -23,8 +23,13 @@ Note: the client will provide the customer data.
 ## Final Deliverable:
 
 Visualization of Customer Data | Completed
+
 Visualization of Income Data | Completed
+
 Visualization of Age Data | Completed
+
 Project Plan | Approved | Completed
+
 Requirement Document | Completed
+
 Final Report | In-progress
